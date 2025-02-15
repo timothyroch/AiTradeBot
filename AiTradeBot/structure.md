@@ -1,4 +1,4 @@
-Here's a well-structured plan for your AI stock trading bot project. It includes folders, subfolders, and files to keep everything organized.
+
 
 ### **Project Structure**
 
