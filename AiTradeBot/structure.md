@@ -110,6 +110,3 @@ stock-trading-ai/
 4. **Develop AI models** for stock price prediction.
 5. **Integrate trading strategies** and automate portfolio management.
 
----
-
-Does this structure work for you? Let me know if you'd like to adjust anything!
